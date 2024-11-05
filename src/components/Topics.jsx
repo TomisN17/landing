@@ -6,7 +6,7 @@ const Topics = () => {
       <h3>Temas que Cubrimos</h3>
 
       
-      <ul>
+      <ul className='centered-section'>
         <li>Anatomía y biología humana</li>
         <li>Identidad de género</li>
         <li>Consentimiento y relaciones saludables</li>

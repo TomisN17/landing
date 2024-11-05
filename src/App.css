@@ -55,18 +55,37 @@ Nav a:hover {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  width: 100vw;
   padding: 2em 1em;
   text-align: center;
-  width: 100vw;
   max-width: 1200px;
-  margin: 0 auto;
+  margin: 1em auto;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05); /* Sombra suave para secciones */
   border-radius: 10px; /* Bordes redondeados para un look moderno */
-  margin-top: 2em;
-  margin-bottom: 2em;
+}
+.centered-section {
+  display: flex;
+  flex-direction: column; /* Coloca el contenido en una columna */
+  align-items: center;    /* Centra horizontalmente */
+  text-align: center;     /* Centra el texto */
+  margin: 0 auto;         /* Centra la sección en la página */
+  padding: 20px;          /* Espacio alrededor de la sección */
 }
 
+.centered-section h2 {
+  font-size: 2em;
+  margin-bottom: 20px;    /* Espacio debajo del título */
+}
+
+.centered-section img {
+  max-width: 100%;        /* Asegura que la imagen no exceda el ancho de la sección */
+  height: auto;
+  margin-bottom: 20px;    /* Espacio debajo de la imagen */
+}
+
+.centered-section p {
+  font-size: 1em;
+  line-height: 1.5;       /* Espacio entre líneas para mejorar la legibilidad */
+}
 .hero {
   background: #503358;
   color: white;
@@ -103,9 +122,11 @@ h2, h3 {
   list-style-type: none;
   padding: 0;
   text-align: left;
+  justify-content: space-evenly 
 }
 
 .topics li {
+  font-size:30px;
   margin-bottom: 1em;
   padding: 0.5em;
   background-color: #ffffff33; /* Fondo semitransparente para efecto visual */
