@@ -6,8 +6,7 @@ const Hero = () => {
       <div className='centered-section'>
         <h2>Educación Sexual para Todos</h2>
       <p>Aprende y crece con información real y confiable.</p>
-      <img className='section' src={Logo} alt="" />
-      <button>Conoce más</button>
+      <img className='section' src={Logo} alt="Mesi" />
       </div>
       
     </section>

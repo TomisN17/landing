@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/landing/build/static/css/main.96143cb7.css",
-    "main.js": "/landing/build/static/js/main.d0ba9767.js",
+    "main.js": "/landing/build/static/js/main.6597e403.js",
     "static/js/453.815728ae.chunk.js": "/landing/build/static/js/453.815728ae.chunk.js",
     "static/media/desktop-wallpaper-empty-classroom-clipart-class-room.jpg": "/landing/build/static/media/desktop-wallpaper-empty-classroom-clipart-class-room.a237bbf4a9f15282120d.jpg",
     "static/media/Logo mesi.png": "/landing/build/static/media/Logo mesi.af7eff678cd91e9fb17e.png",
@@ -9,11 +9,11 @@
     "static/media/QRimage.jpg": "/landing/build/static/media/QRimage.6ee73467c0b7506bf8b9.jpg",
     "index.html": "/landing/build/index.html",
     "main.96143cb7.css.map": "/landing/build/static/css/main.96143cb7.css.map",
-    "main.d0ba9767.js.map": "/landing/build/static/js/main.d0ba9767.js.map",
+    "main.6597e403.js.map": "/landing/build/static/js/main.6597e403.js.map",
     "453.815728ae.chunk.js.map": "/landing/build/static/js/453.815728ae.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96143cb7.css",
-    "static/js/main.d0ba9767.js"
+    "static/js/main.6597e403.js"
   ]
 }
