@@ -5,7 +5,7 @@ const About = () => {
   return (
     <section>
     <div id="about" className="about centered-section section">
-      <h3>¿Qué es el Proyecto MESSI?</h3>
+      <h3>¿Qué es el Proyecto MESI?</h3>
       <p>El Proyecto MESSI es una plataforma educativa que busca enseñar sobre educación sexual a niños y jóvenes de manera sana y segura.</p>
       <img className='section' src={Aula} alt="" />
     </div>

@@ -21,7 +21,7 @@ html, body {
 
 /* Header */
 header {
-  background: #4caf50;
+  background: #683e74;
   color: white;
   padding: 1em 0;
   text-align: center;
@@ -29,7 +29,7 @@ header {
 }
 
 Nav {
-  background: #1f9c23;
+  background: #503358;
   color: white;
   padding: 1em;
   text-align: center;
@@ -97,9 +97,127 @@ Nav a:hover {
 }
 
 .topics {
+  padding-top: 5vh;
+  border: 100px;
+  height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+  overflow: auto;
   background: #68B9EE;
   color: white;
 }
+  @media (min-width: 900px){
+    .topics{
+      margin-top: 10vh;
+      height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+      overflow: auto;
+      background: #68B9EE;
+      color: white;
+    }
+  }
+
+  .topic1 {
+    margin-top: 200vh;
+    height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+    overflow: auto;
+    background: #68B9EE;
+    color: white;
+  }
+    @media (max-width: 900px){
+      .topic1{
+        margin-top: 170px;
+        height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+        overflow: auto;
+        background: #68B9EE;
+        color: white;
+      }
+    } @media (min-width: 900px){
+      .topic1{
+        margin-top: 70vh;
+        height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+        overflow: auto;
+        background: #68B9EE;
+        color: white;
+      }
+    }
+
+
+    .topic2 {
+      margin-top: 200vh;
+      height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+      overflow: auto;
+      background: #68B9EE;
+      color: white;
+    }
+      @media (max-width: 900px){
+        .topic2{
+          margin-top: 10px;
+          height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+          overflow: auto;
+          background: #68B9EE;
+          color: white;
+        }
+      } @media (min-width: 900px){
+        .topic2{
+          margin-top: 700vh;
+          height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+          overflow: auto;
+          background: #68B9EE;
+          color: white;
+        }
+      }
+
+
+      .topic3 {
+        margin-top: 200vh;
+        height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+        overflow: auto;
+        background: #68B9EE;
+        color: white;
+      }
+        @media (max-width: 900px){
+          .topic3{
+            margin-top: 170px;
+            height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+            overflow: auto;
+            background: #68B9EE;
+            color: white;
+          }
+        } @media (min-width: 900px){
+          .topic3{
+            margin-top: 70vh;
+            height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+            overflow: auto;
+            background: #68B9EE;
+            color: white;
+          }
+        }
+
+
+        .topic4 {
+          margin-top: 200vh;
+          height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+          overflow: auto;
+          background: #68B9EE;
+          color: white;
+        }
+          @media (max-width: 900px){
+            .topic4{
+              margin-top: 170px;
+              height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+              overflow: auto;
+              background: #68B9EE;
+              color: white;
+            }
+          } @media (min-width: 900px){
+            .topic4{
+              margin-top: 70vh;
+              height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
+              overflow: auto;
+              background: #68B9EE;
+              color: white;
+            }
+          }
+
+
 
 .contact {
   background: #FBB861;

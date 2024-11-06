@@ -2,27 +2,26 @@ import './App.css';
 
 
 import React from 'react';
-import Nav from './components/Nav'
-import Hero from './components/Hero';
-import About from './components/About';
-import Topics from './components/Topics';
-import Contact from './components/Contact';
+import {Nav, Hero, About, Topics, Contact, Header} from './components/'
 import './App.css';
-import Header from './components/Header';
 
+import { BrowserRouter, Routes,Route, Router} from "react-router-dom"; 
+import  Topic1  from './pages';
 
 function App() {
+  
+
   return (
-    <div className="App">
-      <div>
-      <Header/>
-      <Nav />
-      <Hero />
-      <About />
-      <Topics />
-      <Contact />
-    </div>
-    </div>
+      <div className="App">
+        <div>
+        <Header/>
+        <Nav />
+        <Hero />
+        <About />
+        <Topics />
+        <Contact />
+        </div>
+        </div>
   );
 }
 

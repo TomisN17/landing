@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/landing/build/static/css/main.9a88fe9e.css",
-    "main.js": "/landing/build/static/js/main.17629e97.js",
+    "main.css": "/landing/build/static/css/main.4deadf9b.css",
+    "main.js": "/landing/build/static/js/main.b49addaa.js",
     "static/js/453.815728ae.chunk.js": "/landing/build/static/js/453.815728ae.chunk.js",
     "static/media/desktop-wallpaper-empty-classroom-clipart-class-room.jpg": "/landing/build/static/media/desktop-wallpaper-empty-classroom-clipart-class-room.a237bbf4a9f15282120d.jpg",
     "static/media/Logo mesi.png": "/landing/build/static/media/Logo mesi.af7eff678cd91e9fb17e.png",
     "static/media/esi-en-la-escuela-2.jpg": "/landing/build/static/media/esi-en-la-escuela-2.dba503be6b041d17e4fb.jpg",
     "index.html": "/landing/build/index.html",
-    "main.9a88fe9e.css.map": "/landing/build/static/css/main.9a88fe9e.css.map",
-    "main.17629e97.js.map": "/landing/build/static/js/main.17629e97.js.map",
+    "main.4deadf9b.css.map": "/landing/build/static/css/main.4deadf9b.css.map",
+    "main.b49addaa.js.map": "/landing/build/static/js/main.b49addaa.js.map",
     "453.815728ae.chunk.js.map": "/landing/build/static/js/453.815728ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a88fe9e.css",
-    "static/js/main.17629e97.js"
+    "static/css/main.4deadf9b.css",
+    "static/js/main.b49addaa.js"
   ]
 }
