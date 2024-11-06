@@ -1,12 +1,7 @@
-import './App.css';
-
 
 import React from 'react';
-import {Nav, Hero, About, Topics, Contact, Header} from './components/'
+import {Nav, Hero, About, Topics, Qr, Header} from './components/'
 import './App.css';
-
-import { BrowserRouter, Routes,Route, Router} from "react-router-dom"; 
-import  Topic1  from './pages';
 
 function App() {
   
@@ -19,7 +14,7 @@ function App() {
         <Hero />
         <About />
         <Topics />
-        <Contact />
+        <Qr />
         </div>
         </div>
   );

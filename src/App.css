@@ -124,6 +124,7 @@ Nav a:hover {
     color: white;
   }
     @media (max-width: 900px){
+      
       .topic1{
         margin-top: 170px;
         height: 150vh; /* Para asegurar que el contenido no se desborde verticalmente */
@@ -221,7 +222,7 @@ Nav a:hover {
 
 
 
-.contact {
+.Qr {
   background: #FBB861;
   color: white;
 }

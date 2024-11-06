@@ -5,7 +5,7 @@ const Nav = () => {
     <nav>
     <a href="#about">Acerca</a>
     <a href="#topics">Temas</a>
-    <a href="#contact">Contacto</a>
+    <a href="#Qr">Qr</a>
   </nav>
   );
 };
