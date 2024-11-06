@@ -5,8 +5,8 @@ import { Topic1, Topic2, Topic3, Topic4 } from '../pages';
 
 function Topics () {
   return (
-    <Router>
-    <div className='topics centered-section section'>
+    <Router >
+    <div id='topics' className='topics centered-section section'>
       <h3>Temas que Cubrimos</h3>
       <ul className="topics centered-section section">
         <li><Link to="/Topic1 ">Anatomía y biología humana</Link></li>
@@ -24,6 +24,7 @@ function Topics () {
   
     </div>
       </Router>
+
   );
 };
 
